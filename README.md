@@ -1,2 +1,3 @@
-# LeiloesTDSat
-atividade SENAC: casa de leilões
+ nome do projeto: LeiloesTDSat
+explicação: atividade SENAC: casa de leilões
+tecnologias usadas: Java
