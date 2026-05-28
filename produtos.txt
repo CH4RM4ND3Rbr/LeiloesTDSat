@@ -1,0 +1,4 @@
+
+1;mona lisa;100000;A Venda
+2;cadeira;123;A Venda
+
